@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://supcrf.github.io</id>
+    <title>SUPCRF</title>
+    <updated>2022-06-08T08:48:19.814Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://supcrf.github.io"/>
+    <link rel="self" href="https://supcrf.github.io/atom.xml"/>
+    <subtitle>安静的空间</subtitle>
+    <logo>https://supcrf.github.io/images/avatar.png</logo>
+    <icon>https://supcrf.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, SUPCRF</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://supcrf.github.io/post/ce-shi/</id>
+        <link href="https://supcrf.github.io/post/ce-shi/">
+        </link>
+        <updated>2022-06-06T16:24:46.000Z</updated>
+    </entry>
+</feed>
